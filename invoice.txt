@@ -1,0 +1,94 @@
+FROM
+
+Your name
+
+your@mail.com
+
+Your fancy street,
+
+The Big Apple
+
+TO
+
+Awesome Client
+
+yourclient@mail.com
+
+Your fancy street,
+
+The Big Apple
+
+Invoice #123
+
+Invoice description
+
+INVOICE DATE
+
+SERVICE DESCRIPTION
+
+QTY
+
+RATE
+
+AMOUNT
+
+03/22/19
+
+Wireframes for Landing Page
+
+$500
+
+$1,000
+
+Logo design
+
+$500
+
+$500
+
+2
+
+1
+
+EXPENSE DESCRIPTION
+
+Internet bills
+
+TOTAL SERVICES $1,500.00
+
+QTY
+
+1
+
+AMOUNT
+
+$82.60
+
+TOTAL EXPENSES $82.60
+
+DISCOUNT
+
+-$150.00
+
+TAX (5%)
+
+$71.63
+
+INVOICE DUE
+03/22/19
+
+TOTAL
+
+$1,504.23
+
+PAYMENT INFORMATION
+Bank account number or PayPal account here.
+
+PAY INVOICE ONLINE
+
+(Add a link to your online payment 
+methods here) 
+
+THIS INVOICE WAS GENERATED WITH CARE BY AND CO FROM FIVERR
+
+

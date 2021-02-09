@@ -1,2 +1,2 @@
-# documentUnderstanding
- OCR reader for documents
+# python-documentUnderstanfing
+ Data wrangler for documents made in Python
