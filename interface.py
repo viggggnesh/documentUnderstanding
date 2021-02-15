@@ -1,12 +1,12 @@
 #libraries
-import tkinter
+from tkinter import *
 
 #interface code here
-top = tkinter.Tk()
+top = Tk()
 top.title('Window')
 
 def recursiveInformation():
-    tkinter.messagebox.Message('title','text')
+    ('title','text')
 
 #top.mainloop()
 top.mainloop()
